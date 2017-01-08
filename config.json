@@ -1,0 +1,24 @@
+{
+    "Tiny": {
+        "HillType": "tiny",
+        "HillSize": 20,
+        "MaxWarriorLength": 20,
+        "MinSep": 20,
+        "Coresize": 800,
+        "Cycles": 8000,
+        "MaxProcess": 800,
+        "FixedPos": 4000,
+        "Rounds": 20
+    },
+    "Nano": {
+        "HillType": "nano",
+        "HillSize": 20,
+        "MaxWarriorLength": 5,
+        "MinSep": 5,
+        "Coresize": 80,
+        "Cycles": 800,
+        "MaxProcess": 80,
+        "FixedPos": 400,
+        "Rounds": 20
+    }
+}
